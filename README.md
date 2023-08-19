@@ -23,10 +23,11 @@
 <a href="https://www.instagram.com/juanguarincosmos/"> <img src="https://raw.githubusercontent.com/AndresGuarin/Images/e40287b8c3ce23412122bcd45c25e136733b33c6/logos/instagram.svg" height="30"/> </a>
 </p>
 
+<!--
 <h3> Languages and tools </h3>
 
 - Python
 - C++
 - MATLAB
 - Mathematica
-- Maxima
+- Maxima -->
